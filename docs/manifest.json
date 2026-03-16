@@ -1,0 +1,19 @@
+{
+  "name": "Кристина Агаджанова",
+  "short_name": "Кристина Агаджанова",
+  "description": "Кристина Агаджанова - независимый инвестиционный советник в реестре Банка России № 92",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f0f2f5",
+  "theme_color": "#1B3A6B",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icons/logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
