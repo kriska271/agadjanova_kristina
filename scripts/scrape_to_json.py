@@ -570,8 +570,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    else:
-        log.info("Telethon credentials not set — skipping comments scraping")
-
-if __name__ == "__main__":
-    main()
