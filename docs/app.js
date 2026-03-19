@@ -28,7 +28,7 @@
 // For GitHub Pages the JSON is served from the same origin
 const DATA_URL = 'data/posts.json';
 const PAGE_SIZE = 20;
-const CHANNEL = 'mb4ru';
+const CHANNEL = 'agadjanova_kristina';
 
 const app = (() => {
   // ── State ──────────────────────────────────────────────────────────────
